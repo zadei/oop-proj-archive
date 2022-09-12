@@ -1,4 +1,5 @@
-# OOP-Project
-Toby Zade OOP major prac
+# HOW TO USE
+1. Compile everything except driver.cpp if you want to run the core game
+2. Compile everything excluding main.cpp if you want to run the test cases
 
-This is a project by us to create an interfaced game where you can move around a map and fight enemies.
+###### bismillah
